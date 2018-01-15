@@ -1,0 +1,19 @@
+@charset "ISO-8859-1";
+
+body {
+    background-color: #3465af;
+}
+
+
+.wrapper {
+    background-color: #ebeef3;
+    width: 60%;
+    margin: 50px auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 20px #183762;
+}
+
+.loginForm{
+	margin: 10px;
+	border: 1px solid black;
+}
